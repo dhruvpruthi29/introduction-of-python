@@ -1,0 +1,6 @@
+x = float(input('Enter First Number: '))
+y = float(input('Enter Second Number: '))
+print(f'The addition result is:{x+y}')
+print(f'The subtraction result is:{x-y}')
+print(f'The multiplication result is:{x*y}')
+print(f'The division result is:{x/y}')
